@@ -1,4 +1,4 @@
-# drink
+# Drink Search
 
 ## Project setup
 ```
@@ -27,7 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Tutorial
-https://dev.to/lynnewritescode/my-scss-setup-within-a-vue-cli-3-project-4jan
-# drink-api
